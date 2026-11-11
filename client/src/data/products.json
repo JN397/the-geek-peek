@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mtg-001",
+    "name": "Magic: The Gathering - Foundations Booster Box",
+    "category": "Magic The Gathering",
+    "price": 144.99,
+    "stock": 14,
+    "image": "https://unsplash.com",
+    "description": "36 Play Boosters ideal for drafting and constructing your ultimate deck foundations."
+  },
+  {
+    "id": "pkm-001",
+    "name": "Pokémon TCG: Scarlet & Violet - Surging Sparks Elite Trainer Box",
+    "category": "Pokémon",
+    "price": 49.99,
+    "stock": 22,
+    "image": "https://unsplash.com",
+    "description": "Features Stellar Tera Pikachu ex, includes 9 booster packs, and premium game accessories."
+  },
+  {
+    "id": "op-001",
+    "name": "One Piece TCG: Two Legends Booster Display (OP-08)",
+    "category": "One Piece",
+    "price": 109.99,
+    "stock": 8,
+    "image": "https://unsplash.com",
+    "description": "Encounter the powerful legends of the Skypeia Arc and the revolutionary army."
+  },
+  {
+    "id": "acc-001",
+    "name": "Dragon Shield Matte Dual Sleeves - Orchid (100 Pack)",
+    "category": "Accessories",
+    "price": 12.99,
+    "stock": 45,
+    "image": "https://unsplash.com",
+    "description": "Fully opaque matte card sleeves with a clear front and textured interior colored backing."
+  }
+]
