@@ -1,6 +1,7 @@
 # The Geek Peek - Full-Stack Redesign
 
 A full-stack web application built for **The Geek Peek**, a local game store that hosts weekly tabletop tournaments for 60+ players. This project is a complete overhaul of their current site to handle online inventory, event info, and orders.
+I was given permission by the owner to do this redesign for my portfolio.
 
 ## Tech Stack
 
